@@ -1,1 +1,1 @@
-kirana = {"until":"2023-6-21"}
+kirana = {"until":"2050-11-6"}
