@@ -1,4 +1,5 @@
-kirana = {"until":"2050-11-6"}
+kirana = {"until":"2050-11-6"}
+
 aoda = {"until":"2050-10-26"}
 risha = {"until":"2023-9-17"}
 sayang = {"until":"2026-3-5"}
@@ -15,4 +16,3 @@ gisca = {"until":"2023-9-17"}
 goblin = {"until":"2023-9-17"}
 frstore = {"until":"2023-9-17"}
 yudha = {"until":"2023-9-17"}
-genderuwoalas = {"until":"2023-9-17"}
