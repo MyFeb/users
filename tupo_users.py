@@ -13,3 +13,4 @@ megi = {"until":"2023-9-17"}
 andara = {"until":"2023-9-17"}
 gisca = {"until":"2023-9-17"}
 goblin = {"until":"2023-9-17"}
+frstore = {"until":"2023-9-17"}
