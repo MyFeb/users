@@ -17,3 +17,4 @@ goblin = {"until":"2023-9-17"}
 frstore = {"until":"2023-9-17"}
 yudha = {"until":"2023-9-17"}
 gendruwoalas = {"until":"2023-9-17"}
+adhibarra = {"until":"2023-9-17"}
