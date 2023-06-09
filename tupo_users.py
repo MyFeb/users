@@ -37,3 +37,4 @@ masbhe = {"until":"2023-9-17"}
 tettiarios = {"until":"2023-9-27"}
 emen = {"until":"2023-9-17"}
 tiyaniii = {"until":"2023-8-11"}
+edaxxx = {"until":"2023-9-27"}
