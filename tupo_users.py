@@ -6,3 +6,4 @@ dederatinah = {"until":"2023-8-10"}
 jawkills = {"until":"2023-9-17"}
 iruel = {"until":"2023-9-17"}
 widya = {"until":"2023-9-17"}
+cantika = {"until":"2023-9-17"}
