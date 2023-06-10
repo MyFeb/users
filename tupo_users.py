@@ -79,3 +79,6 @@ lawliet = {"until":"2026-3-5"}
 mayanurmeiati = {"until":"2023-8-11"}
 tapung = {"until":"2023-9-28"}
 rikoalbara = {"until":"2023-9-19"}
+dedepul = {"until":"2026-3-6"}
+febriningsih = {"until":"2023-9-19"}
+deniferisetaiawan = {"until":"2023-9-19"}
