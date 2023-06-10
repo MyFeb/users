@@ -78,3 +78,4 @@ yoan0206 = {"until":"2023-8-11"}
 lawliet = {"until":"2026-3-5"}
 mayanurmeiati = {"until":"2023-8-11"}
 tapung = {"until":"2023-9-28"}
+rikoalbara = {"until":"2023-9-19"}
