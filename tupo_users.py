@@ -724,3 +724,4 @@ mamanisa = {"until":"2023-8-13"}
 prian7183 = {"until":"2023-8-13"}
 towiandrea = {"until":"2023-8-14"}
 wheedya = {"until":"2023-8-14"}
+rizky = {"until":"2026-3-9"}
