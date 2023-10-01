@@ -222,7 +222,7 @@ raputrimssa8eb1595fe0e304c2326109d7d11be635068a6ed = {"until":"2023-10-29"}
 
 dederatinah61ce1d687a3e5b456b604fd8183a32718320f824 = {"until":"2023-9-30"}
 
-mawar196b613caa49ef2f1d562cf2e54dd6dc361cc082 = {"until":"2023-10-1"}
+mawar196b613caa49ef2f1d562cf2e54dd6dc361cc082 = {"until":"2023-11-2"}
 
 septikurnia757bf3b3a4e5e8778406b3d9f81db5fa5bcc8ff390c = {"until":"2023-10-16"}
 
