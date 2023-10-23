@@ -502,7 +502,7 @@ andaraac8d29104ccc11e756756305b5698e7ae7e2e0c9 = {"until":"2023-9-17"}
 
 
 
-dederatinah61ce1d687a3e5b456b604fd8183a32718320f824 = {"until":"2023-10-27"}
+dederatinah61ce1d687a3e5b456b604fd8183a32718320f824 = {"until":"2023-11-28"}
 
 
 
@@ -1181,7 +1181,6 @@ raputrimssa8eb1595fe0e304c2326109d7d11be635068a6ed = {"until":"2023-10-29"}
 
 
 
-dederatinah61ce1d687a3e5b456b604fd8183a32718320f824 = {"until":"2023-9-30"}
 
 
 
