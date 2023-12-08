@@ -6,7 +6,7 @@ bebeb6c50ca1253f00c643fc90834197ca757bc68809f = {"until":"2024-10-27"}
 
 maimuri8d0716f618438f96fa66010d80f89df467dbae7a = {"until":"2023-12-21"}
 
-kinkin202b7eea6db2e2c2a88a2ee39fd3e7c9c062a9b06c2 = {"until":"2023-12-9"}
+kinkin202b7eea6db2e2c2a88a2ee39fd3e7c9c062a9b06c2 = {"until":"2024-1-9"}
 
 kodira3dff45deb87feadf2cd2f8e4486832dcf51c5ce = {"until":"2023-12-15"}
 
